@@ -1,0 +1,9 @@
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\bin\Debug\VirusMaker.exe.config
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\bin\Debug\VirusMaker.exe
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\bin\Debug\VirusMaker.pdb
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\obj\Debug\VirusMaker.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\obj\Debug\VirusMaker.Form1.resources
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\obj\Debug\VirusMaker.Properties.Resources.resources
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\obj\Debug\VirusMaker.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\obj\Debug\VirusMaker.exe
+C:\Users\Ali\Desktop\VirusMaker\VirusMaker\obj\Debug\VirusMaker.pdb
